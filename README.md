@@ -43,7 +43,8 @@ I'm a passionate **AI, Software, and Web Engineer** with a strong background in 
 
 - **Databases**:
   - MS SQL Server
-  - Online SQL Databases
+  - Online SQL/Postgres Databases(Relational Databases)
+  - MongoDB(NO SQL)
 
 ---
 
