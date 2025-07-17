@@ -52,7 +52,7 @@ I'm a passionate **AI, Software, and Web Engineer** with a strong background in 
 
 I'm always open to discussions about new AI trends, tech collaborations, and software innovation.
 
-- 📧 Reach me on GitHub or contact me on Whatsapp +923358111599.
+- 📧 Reach me on GitHub, Email me:aleenoorqureshi@gmail.com or contact me on Whatsapp +923358111599.
 
 ---
 
